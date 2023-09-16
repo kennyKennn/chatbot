@@ -1,0 +1,2 @@
+cd C:\Users\Kenny\Desktop\mkc bot23
+app.py
